@@ -2,13 +2,11 @@
 
 This is a simple implementation of the classic word-guessing game in Python. This project provides an enjoyable and educational way to improve your vocabulary and word-guessing skills while having fun.
 
-![Hangman Result](result_screenshot.png)
 
 ## Table of Contents
 - [Features](#features)
 - [How to Run](#how-to-run)
 - [Customization](#customization)
-- [Contributors](#contributors)
 - [Result Screenshot](#result-screenshot)
 
 
